@@ -27,3 +27,5 @@ Learn how to use Git and GitHub effectively by watching the series of youtube vi
 19. `git pull <repo_alias> <branch_name>` - *When everytime there are changes in the remote repo, this should be done to update your local repo and to be safe from conflicts.*
 
 ### Branch git-prac-branch Test
+
+### Branch git-prac-branch Test 2
