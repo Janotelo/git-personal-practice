@@ -25,3 +25,5 @@ Learn how to use Git and GitHub effectively by watching the series of youtube vi
 17. `git push <repo_url> <branch_name>` - *You can do this if you have a local git repo in your local device and wanted to push it to remote  repo. But first you need to create a new repo in your github account.*
 18. `git remote add <repo_alias> <repo_url>` - *To give an alias to the repo link. Usually "origin" is being used as repo alias.*
 19. `git pull <repo_alias> <branch_name>` - *When everytime there are changes in the remote repo, this should be done to update your local repo and to be safe from conflicts.*
+
+### Branch git-prac-branch Test
